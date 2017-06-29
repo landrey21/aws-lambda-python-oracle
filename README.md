@@ -18,13 +18,13 @@ See the code in lambda_function.py for reference. The program is using these env
 
 # Get the Required Libraries
 
-I used an Ubuntu EC2 instance to build the libraries. Go over to your Ubuntu machine.
+I used an Ubuntu EC2 instance to build the libraries. Go over to your Ubuntu machine for the next steps.
 
 Prerequisites:
 
-zip and unzip (sudo apt-get install zip unzip)
-python 2.7 and pip (google "ubuntu pip install")
-make (you can just run the commands in the Makefile if you rather)
+	zip and unzip (sudo apt-get install zip unzip)
+	python 2.7 and pip (google "ubuntu pip install")
+	make (you can just run the commands in the Makefile if you rather)
 
 ## Download the Oracle Instantclient
 
